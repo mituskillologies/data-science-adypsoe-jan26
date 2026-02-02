@@ -1,4 +1,3 @@
-```markdown
 # Data Science Training Program - Jan 2026
 ### Ajeenkya DY Patil School of Engineering, Pune
 
@@ -59,48 +58,3 @@ Clone the repository to your local machine:
 ```bash
 git clone [https://github.com/mituskillologies/data-science-adypsoe-jan26.git](https://github.com/mituskillologies/data-science-adypsoe-jan26.git)
 cd data-science-adypsoe-jan26
-
-```
-
-Install the required libraries:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-# If app.py uses Streamlit:
-pip install streamlit
-
-```
-
-## 🛠 Usage
-
-1. **Running Notebooks**:
-Launch Jupyter Notebook in the directory:
-```bash
-jupyter notebook
-
-```
-
-
-Open any `.ipynb` file to explore the concepts and code.
-2. **Running the App**:
-If `app.py` is a Streamlit app (common for these courses):
-```bash
-streamlit run 25\ app.py
-
-```
-
-
-*Note: If it is a Flask app, run it using `python 25\ app.py`.*
-
-## 🔗 Resources
-
-* **Official Website**: [mitu.co.in](https://mitu.co.in/downloads)
-* **Instructor**: Mitu Skillologies
-
-## 📜 License
-
-This project is open-source and available for educational purposes.
-
-```
-
-```
